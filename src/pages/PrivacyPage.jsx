@@ -6,7 +6,7 @@ export function PrivacyPage() {
     <>
       <PageHero
         eyebrow="Privacy Policy"
-        title="The live RVS privacy policy, adapted into the current React theme."
+        title="Our Privacy Policy"
         description="This page now reflects the fuller legal content published on rvsaihub.com while keeping the existing visual system of the React site."
       />
       <section className="section-white">
