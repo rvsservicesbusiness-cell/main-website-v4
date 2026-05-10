@@ -6,7 +6,7 @@ export function TermsPage() {
     <>
       <PageHero
         eyebrow="Terms & Conditions"
-        title="The live RVS terms content inside the current website theme."
+        title="Our Terms & conditions."
         description="This page replaces the earlier placeholder terms with the broader RVS Info Tech terms and conditions currently represented on the live website."
       />
       <section className="section-light">
