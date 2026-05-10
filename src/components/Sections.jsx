@@ -233,9 +233,9 @@ export function WhyChooseSection() {
             <span>Designed around real business goals.</span>
           </h2>
           <p className="section-sub section-sub-light">
-            The live site repeatedly emphasizes responsive delivery, modern
+            RVS AI Hub repeatedly emphasizes responsive delivery, modern
             tooling, clear navigation, security, scalability, and business
-            alignment. We turned that into a concise trust section here.
+            alignment. We turned that into a concise trust.
           </p>
         </div>
         <div className="compliance-grid reveal visible">
