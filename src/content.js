@@ -1,8 +1,8 @@
 export const company = {
-  name: "RVS Info Tech",
+  name: "RVS AI Hub",
   shortName: "RVS",
   email: "rvsinfotech01@gmail.com",
-  privacyEmail: "privacy@rvsinfotech.com",
+  privacyEmail: "rvsinfotech01@gmail.com",
   website: "https://rvsaihub.com",
   calendly: "https://calendly.com/contact-rvsaihub",
   formUrl:
@@ -14,10 +14,10 @@ export const company = {
 };
 
 export const hero = {
-  badge: "RVS Info Tech - Innovation Partner",
+  badge: "RVS AI Hub - Innovation Partner",
   title: "Scalable digital solutions for ambitious businesses.",
   description:
-    "RVS Info Tech is a forward-thinking technology firm dedicated to building scalable, high-performance digital solutions. We partner with clients to bring ideas to life through software, automation, design, and content systems that help businesses grow.",
+    "RVS AI Hub is a forward-thinking technology firm dedicated to building scalable, high-performance digital solutions. We partner with clients to bring ideas to life through software, automation, design, and content systems that help businesses grow.",
   primaryCta: {
     label: "Book a Demo",
     href: company.calendly,
@@ -36,7 +36,7 @@ export const aboutIntro = {
   description:
     "Discover who we are, what we stand for, and how we create value through innovation and trust.",
   story:
-    "RVS Info Tech is a forward-thinking technology firm dedicated to building scalable, high-performance digital solutions. With a focus on innovation, collaboration, and quality, we partner with clients to bring their ideas to life using modern tools and practices.",
+    "RVS AI Hub is a forward-thinking technology firm dedicated to building scalable, high-performance digital solutions. With a focus on innovation, collaboration, and quality, we partner with clients to bring their ideas to life using modern tools and practices.",
 };
 
 export const aboutPillars = [
@@ -371,12 +371,12 @@ export const privacySections = [
   {
     title: "Our Privacy Policy",
     body:
-      "Welcome to RVS Info Tech. Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you visit our website and interact with our services. By accessing or using our website, you agree to the terms of this policy.",
+      "Welcome to RVS AI Hub. Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you visit our website and interact with our services. By accessing or using our website, you agree to the terms of this policy.",
   },
   {
     title: "1. Who We Are",
     body:
-      "RVS Info Tech is a U.S.-based technology firm specializing in custom software, web, and mobile solutions. We pride ourselves on innovation, quality, and long-term partnerships.",
+      "RVS AI Hub is a U.S.-based technology firm specializing in custom software, web, and mobile solutions. We pride ourselves on innovation, quality, and long-term partnerships.",
   },
   {
     title: "2. Information We Collect",
@@ -444,7 +444,7 @@ export const privacySections = [
   {
     title: "9. International Data Transfers",
     body:
-      "RVS Info Tech operates solely from the United States. If we transfer your data to service providers outside the U.S., we require them to adhere to data protection standards consistent with this Policy.",
+      "RVS AI Hub operates solely from the United States. If we transfer your data to service providers outside the U.S., we require them to adhere to data protection standards consistent with this Policy.",
   },
   {
     title: "10. Children's Privacy",
@@ -470,7 +470,7 @@ export const termsSections = [
   {
     title: "Our Terms & Conditions",
     body:
-      "Welcome to RVS Info Tech. These Terms and Conditions govern your access to and use of the website and any services provided by RVS Info Tech. By visiting or using the website, you agree to be bound by these Terms. If you do not agree, please discontinue use of the website immediately.",
+      "Welcome to RVS AI Hub. These Terms and Conditions govern your access to and use of the website and any services provided by RVS AI Hub. By visiting or using the website, you agree to be bound by these Terms. If you do not agree, please discontinue use of the website immediately.",
   },
   {
     title: "1. Acceptance of Terms",
@@ -480,7 +480,7 @@ export const termsSections = [
   {
     title: "2. Services",
     body:
-      "RVS Info Tech provides custom software development, web and mobile applications, API and backend services, and ongoing support and maintenance. All Services are subject to these Terms and any separate agreements you enter with us.",
+      "RVS AI Hub provides custom software development, web and mobile applications, API and backend services, and ongoing support and maintenance. All Services are subject to these Terms and any separate agreements you enter with us.",
   },
   {
     title: "3. User Obligations",
@@ -493,7 +493,7 @@ export const termsSections = [
   {
     title: "4. Intellectual Property",
     bullets: [
-      "All content, trademarks, logos, graphics, and software on the website are the property of RVS Info Tech or its licensors and are protected by U.S. and international intellectual property laws.",
+      "All content, trademarks, logos, graphics, and software on the website are the property of RVS AI Hub or its licensors and are protected by U.S. and international intellectual property laws.",
       "You may not reproduce, distribute, create derivative works of, or publicly display any portion of the website or Services without prior written consent.",
     ],
   },
@@ -510,17 +510,17 @@ export const termsSections = [
   {
     title: "7. Disclaimer of Warranties",
     body:
-      "The website and Services are provided as is and as available. To the fullest extent permitted by law, RVS Info Tech disclaims all warranties, whether express or implied, including merchantability, fitness for a particular purpose, and non-infringement.",
+      "The website and Services are provided as is and as available. To the fullest extent permitted by law, RVS AI Hub disclaims all warranties, whether express or implied, including merchantability, fitness for a particular purpose, and non-infringement.",
   },
   {
     title: "8. Limitation of Liability",
     body:
-      "To the maximum extent permitted by law, RVS Info Tech and its affiliates, officers, employees, and agents shall not be liable for any indirect, incidental, special, or consequential damages arising out of or related to these Terms, the website, or Services, even if advised of the possibility of such damages. Our total aggregate liability shall not exceed the amounts paid by you for the specific service giving rise to the claim.",
+      "To the maximum extent permitted by law, RVS AI Hub and its affiliates, officers, employees, and agents shall not be liable for any indirect, incidental, special, or consequential damages arising out of or related to these Terms, the website, or Services, even if advised of the possibility of such damages. Our total aggregate liability shall not exceed the amounts paid by you for the specific service giving rise to the claim.",
   },
   {
     title: "9. Indemnification",
     body:
-      "You agree to indemnify and hold RVS Info Tech, its affiliates, officers, and employees harmless from any claims, damages, losses, liabilities, and expenses including reasonable attorneys' fees arising from your use of the website or Services, your violation of these Terms, or your infringement of any third-party rights.",
+      "You agree to indemnify and hold RVS AI Hub, its affiliates, officers, and employees harmless from any claims, damages, losses, liabilities, and expenses including reasonable attorneys' fees arising from your use of the website or Services, your violation of these Terms, or your infringement of any third-party rights.",
   },
   {
     title: "10. Governing Law and Dispute Resolution",
@@ -530,7 +530,7 @@ export const termsSections = [
   {
     title: "11. Termination",
     body:
-      "We reserve the right to suspend or terminate your access to the website or Services at any time, without notice, for conduct that we believe violates these Terms or is harmful to other users or RVS Info Tech.",
+      "We reserve the right to suspend or terminate your access to the website or Services at any time, without notice, for conduct that we believe violates these Terms or is harmful to other users or RVS AI Hub.",
   },
   {
     title: "12. Changes to Terms",
@@ -549,6 +549,6 @@ export const termsSections = [
   {
     title: "Closing Note",
     body:
-      "Thank you for choosing RVS Info Tech. We look forward to partnering with you.",
+      "Thank you for choosing RVS AI Hub. We look forward to partnering with you.",
   },
 ];
