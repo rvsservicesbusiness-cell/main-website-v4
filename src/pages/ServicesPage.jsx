@@ -12,7 +12,7 @@ export function ServicesPage() {
     <>
       <PageHero
         eyebrow="Services"
-        title="AI-Powered Solutions Designed to Automate Operations, Improve Experiences, and Accelerate Business Growth"
+        title="AI-Powered Solutions Designed to Automate Operations."
         description="From AI-powered automation to creative digital solutions, RVS AI Hub delivers scalable technology services designed to improve efficiency, engagement, productivity, and business growth."
       />
       <BestServicesSection />
