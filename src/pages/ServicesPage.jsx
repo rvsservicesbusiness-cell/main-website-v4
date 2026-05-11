@@ -13,7 +13,7 @@ export function ServicesPage() {
       <PageHero
         eyebrow="Services"
         title="Automation, design, web delivery, and growth content."
-        description="The live RVS site covers a broad service mix. This page brings those offerings together inside the existing React theme with dedicated detail pages for each service."
+        description="From AI-powered automation to creative digital solutions, RVS AI Hub delivers scalable technology services designed to improve efficiency, engagement, productivity, and business growth."
       />
       <BestServicesSection />
       <ServicesSection introOnly />
