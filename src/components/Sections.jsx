@@ -132,14 +132,13 @@ export function BestServicesSection() {
         <div className="reveal visible">
           <div className="section-eyebrow">Best Services</div>
           <h2>
-            Intelligence services built for
+            Smart AI Solutions Built to Simplify Business
             <br />
-            <span>hospitality, healthcare, and logistics leaders.</span>
+            <span>Operations and Deliver Faster, Smarter, and More Efficient Digital Experiences</span>
           </h2>
           <p className="section-sub">
-            These featured DecisionIntel services are designed for organizations
-            that need sharper weekly decisions, better operational visibility,
-            and more confident leadership action in high-stakes environments.
+            RVS AI Hub provides advanced AI-powered services that help businesses automate workflows, improve customer engagement, 
+            optimize operations, and achieve scalable digital growth with innovative technology solutions.
           </p>
         </div>
         <div className="cards-grid reveal visible">
