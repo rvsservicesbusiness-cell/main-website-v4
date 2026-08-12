@@ -1,8 +1,8 @@
 export const company = {
   name: "RVS AI Hub",
   shortName: "RVS",
-  email: "rvsinfotech01@gmail.com",
-  privacyEmail: "rvsinfotech01@gmail.com",
+  email: "contact@rvsaihub.com",
+  privacyEmail: "contact@rvsaihub.com",
   website: "https://rvsaihub.com",
   calendly: "https://calendly.com/contact-rvsaihub",
   formUrl:
